@@ -20,4 +20,4 @@ https://www.speedtest.net/apps/cli
 ## 
 
 ---
-Next step is to wrapp it for common users installation and usage!
+The next step is to wrap it up for the everyday user's installation and usage!
