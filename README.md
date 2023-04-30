@@ -37,6 +37,69 @@ Command line to get result in JSON:
 
 ```bash
 $ speedtest -f json-pretty
+
+{
+    "type": "log",
+    "timestamp": "2023-04-30T05:00:23Z",
+    "message": "Error: [0] Timeout occurred in connect.",
+    "level": "error"
+}
+{
+    "type": "result",
+    "timestamp": "2023-04-30T05:00:46Z",
+    "ping": {
+        "jitter": 3.677,
+        "latency": 19.566,
+        "low": 19.167,
+        "high": 26.570
+    },
+    "download": {
+        "bandwidth": 43595912,
+        "bytes": 384385628,
+        "elapsed": 8904,
+        "latency": {
+            "iqm": 361.014,
+            "low": 18.950,
+            "high": 657.445,
+            "jitter": 75.102
+        }
+    },
+    "upload": {
+        "bandwidth": 1990503,
+        "bytes": 26262348,
+        "elapsed": 12912,
+        "latency": {
+            "iqm": 22.246,
+            "low": 14.501,
+            "high": 34.657,
+            "jitter": 3.945
+        }
+    },
+    "packetLoss": 0,
+    "isp": "Claro NET",
+    "interface": {
+        "internalIp": "2804:14c:c2:8b85:97b4:349c:d317:2150",
+        "name": "wlp2s0",
+        "macAddr": "00:00:00:00:00:00",
+        "isVpn": false,
+        "externalIp": "0000:000:00:0000:0000:0000:0000:0000"
+    },
+    "server": {
+        "id": 43094,
+        "host": "speedtest.nossanetfibra.com.br",
+        "port": 8080,
+        "name": "Nossanet Fibra",
+        "location": "São Paulo",
+        "country": "Brazil",
+        "ip": "2804:4e50:beba:cafe::2"
+    },
+    "result": {
+        "id": "dde47777-9e59-4ad6-af95-81b3647c5e16",
+        "url": "https://www.speedtest.net/result/c/dde47777-9e59-4ad6-af95-81b3647c5e16",
+        "persisted": true
+    }
+}
+
 ```
 
 The result in PNG:<br>
