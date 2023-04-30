@@ -56,7 +56,7 @@ Robot (bash script) step-by-step:
 1. Run speedtest script from Ookla and save the result in a text temporary file (or pipe it)
 2. Convert the text with Internet speed results to an image with ImageMagic
 3. Send a Twitter message sharing the speed and reference your operator too, attach the image
-4. Schedule it for 1 your execution of the bach (background) robot
+4. Schedule it for 1 hour execution of the bach (background) robot
 ```bash
 # Schedule SeedRobot.sh bash robot to run every hour by CRONTAB
 0 * * * * ~/bin/SpeedRobot.sh
