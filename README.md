@@ -10,12 +10,29 @@ Here we get together some tech to create a speed test robot quickly and Twitter 
 
 Tools:
 
-## Speed Test
+## Speedtest
 
 Speedtest by Ookla is a good option https://www.speedtest.net, we can download and install a local command line version:
 https://www.speedtest.net/apps/cli
 
+Graphical report example:
 ![](https://www.speedtest.net/result/14675293137.png)
+
+Command line report example:
+```bash
+   Speedtest by Ookla
+
+      Server: FORÇA E AÇÃO TELECOM - Diadema (id: 31133)
+         ISP: Claro NET
+Idle Latency:    17.47 ms   (jitter: 2.74ms, low: 13.88ms, high: 20.34ms)
+    Download:    30.88 Mbps (data used: 52.3 MB)                                                   
+                374.07 ms   (jitter: 78.71ms, low: 47.04ms, high: 1358.62ms)
+      Upload:    34.07 Mbps (data used: 18.9 MB)                                                   
+                 71.35 ms   (jitter: 21.05ms, low: 26.83ms, high: 341.94ms)
+ Packet Loss:     0.0%
+  Result URL: https://www.speedtest.net/result/c/3ed0f928-6340-45bd-9795-438565839bdb
+```
+
 
 ## Twitter API
 
