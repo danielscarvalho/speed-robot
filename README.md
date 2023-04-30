@@ -39,6 +39,10 @@ Command line to get result in JSON:
 $ speedtest -f json-pretty
 ```
 
+The result in PNG:
+
+![](https://www.speedtest.net/result/c/3ed0f928-6340-45bd-9795-438565839bdb.png)
+
 ## Twitter API
 
 Connect and send Twitter messages by WEB API:<br>
