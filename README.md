@@ -15,6 +15,8 @@ Tools:
 Speedtest by Ookla is a good option https://www.speedtest.net, we can download and install a local command line version:
 https://www.speedtest.net/apps/cli
 
+![](https://www.speedtest.net/result/14675293137.png)
+
 ## Twitter API
 
 ## 
