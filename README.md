@@ -23,3 +23,4 @@ https://www.speedtest.net/apps/cli
 
 ---
 The next step is to wrap it up for the everyday user's installation and usage!
+Extend to Facebook, Instagram, LinkedIn and other social mídia...
