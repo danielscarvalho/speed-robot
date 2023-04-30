@@ -2,7 +2,7 @@
 Internet speed Twitter robot
 
 As almost everybody works from home, Internet availability and speed are important.<br>
-When we have issues, the operators (telecom companies) try to attend to us with robots!´
+When we have issues, the operators (telecom companies) try to attend to us with robots! (clearly, they don't care!)
 
 So we can create our own robots too!! In response!!
 
