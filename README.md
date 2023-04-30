@@ -39,12 +39,6 @@ Command line to get result in JSON:
 $ speedtest -f json-pretty
 
 {
-    "type": "log",
-    "timestamp": "2023-04-30T05:00:23Z",
-    "message": "Error: [0] Timeout occurred in connect.",
-    "level": "error"
-}
-{
     "type": "result",
     "timestamp": "2023-04-30T05:00:46Z",
     "ping": {
