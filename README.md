@@ -61,4 +61,5 @@ https://imagemagick.org/index.php
 
 ---
 The next step is to wrap it up for the everyday user's installation and usage!<br>
-Extend to Facebook, Instagram, LinkedIn and other social midia...
+Extend to Facebook, Instagram, LinkedIn, and other social media...<br>
+Computer Science and Engineering students can create projects from here to rebuild them in Java, Python, R, etc...<br>
