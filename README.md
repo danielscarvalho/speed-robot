@@ -2,7 +2,7 @@
 Internet speed Twitter robot
 
 As almost everybody works from home, Internet availability and speed are important.<br>
-When we have issues, the operators (telecom companies) try to attend to us with robots!
+When we have issues, the operators (telecom companies) try to attend to us with robots!´
 
 So we can create our own robots too!! In response!!
 
@@ -22,5 +22,5 @@ https://www.speedtest.net/apps/cli
 ## 
 
 ---
-The next step is to wrap it up for the everyday user's installation and usage!
+The next step is to wrap it up for the everyday user's installation and usage!<br>
 Extend to Facebook, Instagram, LinkedIn and other social mídia...
