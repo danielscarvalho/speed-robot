@@ -33,6 +33,11 @@ Idle Latency:    17.47 ms   (jitter: 2.74ms, low: 13.88ms, high: 20.34ms)
   Result URL: https://www.speedtest.net/result/c/3ed0f928-6340-45bd-9795-438565839bdb
 ```
 
+Command line to get result in JSON:
+
+```bash
+$ speedtest -f json-pretty
+```
 
 ## Twitter API
 
