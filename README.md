@@ -1,10 +1,7 @@
 # speed-robot
 Internet speed Twitter robot
 
-As almost everybody works from home, Internet availability and speed are important.<br>1. Run speedtest script from Ookla and save the result in a text file
-2. Convert the text with Internet speed results to an image with ImageMagic
-3. Send a Twitter message sharing the speed and reference your operator too, attach the image
-4. Schedule it for 1 your execution of the bach (background) robot
+As almost everybody works from home, Internet availability and speed are important.<br>
 When we have issues, the operators (telecom companies) try to attend to us with robots!´
 
 So we can create our own robots too!! In response!!
