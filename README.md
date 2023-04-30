@@ -41,7 +41,7 @@ https://developer.twitter.com
 
 ## Bash Send Tweet
 
-A project as a reference to send messages by Bash:
+A project as a reference to send messages by Bash:<br>
 https://github.com/agubelu/bash-send-tweet
 
 ## How to create images from text messages...
@@ -60,3 +60,4 @@ https://imagemagick.org/index.php
 The next step is to wrap it up for the everyday user's installation and usage!<br>
 Extend to Facebook, Instagram, LinkedIn, and other social media...<br>
 Computer Science and Engineering students can create projects from here to rebuild them in Java, Python, R, etc...<br>
+Data Science students can create a more systematic analysis of Internet traffic and operators' (ISP) quality and consistency
