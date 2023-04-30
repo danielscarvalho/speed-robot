@@ -62,7 +62,11 @@ Robot (bash script) step-by-step:
 0 * * * * ~/bin/SpeedRobot.sh
 ```
 ---
-The next step is to wrap it up for the everyday user's installation and usage!<br>
-Extend to Facebook, Instagram, LinkedIn, and other social media...<br>
-Computer Science and Engineering students can create projects from here to rebuild them in Java, Python, R, etc...<br>
-Data Science students can create a more systematic analysis of Internet traffic and operators' (ISP) quality and consistency
+## Next steps:
+
+- Wrap it up for the everyday user's installation and usage!<br>
+- Extent to Facebook, Instagram, LinkedIn, and other social media...<br>
+- Computer Science and Engineering students can create projects from here to rebuild them in Java, Python, R, etc...<br>
+- Data Science students can create a more systematic analysis of Internet traffic and operators' (ISP) quality and consistency
+- Get other devs involve
+- Have it published at the press
