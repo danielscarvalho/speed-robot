@@ -15,7 +15,7 @@ Tools:
 Speedtest by Ookla is a good option https://www.speedtest.net, we can download and install a local command line version:
 https://www.speedtest.net/apps/cli
 
-Graphical report example:
+Graphical report example:<br>
 ![](https://www.speedtest.net/result/14675293137.png)
 
 Command line report example:
