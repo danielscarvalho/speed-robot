@@ -36,7 +36,25 @@ Idle Latency:    17.47 ms   (jitter: 2.74ms, low: 13.88ms, high: 20.34ms)
 
 ## Twitter API
 
-## 
+Connect and send Twitter messages by WEB API:<br>
+https://developer.twitter.com
+
+## Bash Send Tweet
+
+A project as a reference to send messages by Bash:
+https://github.com/agubelu/bash-send-tweet
+
+## How to create images from text messages...
+
+ImageMagic command line tool to convert text to images and attach to Twitter message:<br>
+https://imagemagick.org/index.php
+
+## Steps:
+
+1. Run speedtest script from Ookla and save the result in a text file
+2. Convert the text with Internet speed results to an image with ImageMagic
+3. Send a Twitter message sharing the speed and reference your operator too, attach the image
+4. Schedule it for 1 your execution of the bach (background) robot
 
 ---
 The next step is to wrap it up for the everyday user's installation and usage!<br>
