@@ -139,5 +139,5 @@ Robot (bash script) step-by-step:
 - Extent to Facebook, Instagram, LinkedIn, and other social media...<br>
 - Computer Science and Engineering students can create projects from here to rebuild them in Java, Python, R, etc...<br>
 - Data Science students can create a more systematic analysis of Internet traffic and operators' (ISP) quality and consistency
-- Get other devs involve
+- Get more devs involve
 - Have it published at the press
