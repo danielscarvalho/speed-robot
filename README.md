@@ -1,5 +1,5 @@
 # speed-robot
-Internet speed Twitter robot
+Internet speed Twitter robot (SpeedRobot.sh)
 
 As almost everybody works from home, Internet availability and speed are important.<br>
 When we have issues, the operators (telecom companies) try to attend to us with robots! (clearly, they don't care!)
@@ -55,7 +55,10 @@ https://imagemagick.org/index.php
 2. Convert the text with Internet speed results to an image with ImageMagic
 3. Send a Twitter message sharing the speed and reference your operator too, attach the image
 4. Schedule it for 1 your execution of the bach (background) robot
-
+```bash
+# Schedule SeedRobot.sh bash robot to run every hour by CRONTAB
+0 * * * * ~/bin/SpeedRobot.sh
+```
 ---
 The next step is to wrap it up for the everyday user's installation and usage!<br>
 Extend to Facebook, Instagram, LinkedIn, and other social media...<br>
