@@ -78,7 +78,7 @@ $ speedtest -f json-pretty
     "packetLoss": 0,
     "isp": "Claro NET",
     "interface": {
-        "internalIp": "2804:14c:c2:8b85:97b4:349c:d317:2150",
+        "internalIp": "0000:000:00:0000:0000:0000:0000:0000",
         "name": "wlp2s0",
         "macAddr": "00:00:00:00:00:00",
         "isVpn": false,
